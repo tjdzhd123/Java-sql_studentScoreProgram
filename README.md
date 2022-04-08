@@ -29,7 +29,7 @@
 ```
   PreparedStatement ps = null;
 ```
-##### 2. 예외처리을 정상 작동
+##### 2. 예외처리를 이용하여 정상 작동
 ```
 catch (SQLException e) {
 
