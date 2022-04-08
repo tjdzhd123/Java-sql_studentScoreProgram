@@ -47,7 +47,7 @@ catch (SQLException e) {
 			}
 		}
 ```
-## StudentDataSub 주요 기능
+## StudentDataSub 클래스 주요 기능
 
 ##### 1. 오버라이딩 hashCode , equals, compareTo, toString
 
